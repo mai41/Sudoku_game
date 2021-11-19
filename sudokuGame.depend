@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637329629 source:c:\users\win 10\downloads\sudokugame\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
